@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConcentrationGame": {
+      "commandName": "Project",
+      "commandLineArgs": "sample-data4.json"
+    }
+  }
+}
